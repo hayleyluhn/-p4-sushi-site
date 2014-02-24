@@ -9,7 +9,13 @@ body {
 	background: lightgrey;
 }
 
-.map {
-	margin-bottom: 12px;
+.button {
+	background: #961a1d;
+	color: white;
+}
+
+
+.button:hover {
+	background: #7d0c1e;
 }
 
