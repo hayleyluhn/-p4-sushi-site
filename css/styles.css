@@ -9,6 +9,7 @@ body {
 	background: lightgrey;
 }
 
-.panel-1 {
-	height: 300px;
+.map {
+	margin-bottom: 12px;
 }
+
