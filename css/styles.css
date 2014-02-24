@@ -14,8 +14,16 @@ body {
 	color: white;
 }
 
-
+.map {
+	margin-bottom: 12px;
+}
 .button:hover {
 	background: #7d0c1e;
+}
+
+.menu-panel {
+	background: lightgrey;
+	padding-left: 460px;
+	margin-bottom: 25px;
 }
 
