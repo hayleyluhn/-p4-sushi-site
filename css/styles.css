@@ -1,5 +1,14 @@
 /* Your Awesome Website */
 
+body {
+	background: #333333;
+}
+
 .panel {
+	height: 300px;
+	background: lightgrey;
+}
+
+.panel-1 {
 	height: 300px;
 }
